@@ -1,3 +1,19 @@
+
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ @oldelm Sign out
+0
+0 0 oldelm/html-me-something
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
+html-me-something/styles.css
+7fce396  5 days ago
+@oldelm oldelm Worked on index and added css styles.
+     
+188 lines (131 sloc)  2.82 KB
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
@@ -109,7 +125,7 @@ header a:hover {
   background-color: rgba(143,188,143, 0.5);
   border: none;
   color: DarkSlateGray;
-  padding-top: 10em;
+  padding-top: 5em;
   padding-left: 5em;
   padding-right: 5em;
   font-size: 1em;
@@ -120,7 +136,7 @@ header a:hover {
 .grid-text-b {
   background-color: rgba(240,255,240, 0.5);
   border: none;
-  padding-top: 10em;
+  padding-top: 5em;
   padding-left: 5em;
   padding-right: 5em;
   color: DarkSlateGray;
